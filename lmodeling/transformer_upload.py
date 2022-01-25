@@ -1,4 +1,6 @@
 # copy from https://github.com/kimiyoung/transformer-xl
+# strongly based in the code from https://github.com/szhangtju/The-compression-of-Transformer
+# modified by ANON for conference submission
 import sys
 
 import torch
