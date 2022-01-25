@@ -1,5 +1,6 @@
 #!/bin/bash
-export NEPTUNE_API_TOKEN="eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vdWkubmVwdHVuZS5haSIsImFwaV91cmwiOiJodHRwczovL3VpLm5lcHR1bmUuYWkiLCJhcGlfa2V5IjoiMzQyNTI4ZjgtMTY5MC00ZjY5LThiYWItN2JhOWVlMWEyMTk2In0="
+# strongly based in the code from https://github.com/szhangtju/The-compression-of-Transformer
+# modified by ANON for conference submission
 
 DATA='../data/wiki-103/'
 DATASET='wt103'
