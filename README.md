@@ -10,3 +10,7 @@ To run PennTree Bank (or similarly wikitext103):
 ```sh
 ./run_ptb.sh
 ```
+
+This code is based in the Tensorized Transformer implementation by Ma, Xindian, et al. 2019 ([https://github.com/szhangtju/The-compression-of-Transformer.git](https://github.com/szhangtju/The-compression-of-Transformer.git))
+
+(paper available at [https://arxiv.org/abs/1906.09777](https://arxiv.org/abs/1906.09777))
